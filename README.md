@@ -1,2 +1,20 @@
-# Project-1 Coders of Delhi
-Data exploration and preprocessing of CodeBook user dataset using pure Python.
+# Coders of India
+
+## Project Overview
+Exploratory data analysis of CodeBook user data using pure Python.
+
+## Technologies Used
+- Python
+- Jupyter Notebook
+
+## Files
+- data.json → Raw dataset
+- cleaned_data.json → Processed dataset
+- notebooks → Analysis steps
+
+## Objective
+To understand the structure and patterns in user data.
+
+## Future Improvements
+- Add visualization
+- Apply machine learning models
