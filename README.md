@@ -9,7 +9,7 @@ Exploratory data analysis of CodeBook user data using pure Python.
 
 ## Files
 - data.json → Raw dataset
-- cleaned_data.json → Processed dataset
+- cleaned_data.json2 → Processed dataset
 - notebooks → Analysis steps
 
 ## Objective
